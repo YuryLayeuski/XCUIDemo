@@ -23,9 +23,6 @@
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "AddDeleteExpense/testDeleteExpense()">
-               </Test>
-               <Test
                   Identifier = "EditExpense">
                </Test>
             </SkippedTests>
